@@ -1,0 +1,8 @@
+{
+  "name": "xscreensaver we will make the lock button, great again",
+  "description": "launch xscreensaver lock screen",
+  "uuid": "lockscreen@43network.org",
+  "shell-version": [
+    "42"
+  ]
+}
